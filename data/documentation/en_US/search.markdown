@@ -100,6 +100,10 @@ Works in the same way as the modification date queries.
 
 Attribute: **started**
 
+### Search by last moved date
+
+Attribute: **moved**
+
 ### Search by description
 
 Attribute: **description** or **desc**
